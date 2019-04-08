@@ -1,3 +1,7 @@
+[B]1.0.5[/B]
+Replaced default font by Koruri for Japanese font support
+Add flags for Opus and VP9
+
 [B]1.0.4[/B]
 Fix clearlogo in extended info
 Fix flags
